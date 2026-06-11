@@ -1,0 +1,26 @@
+PLATFORM LICENSE AGREEMENT - 2025 VERSION
+
+This Platform License Agreement is entered into between DemoTech Solutions
+Pvt. Ltd. ("Customer") and Acme Platform LLC ("Vendor").
+
+Effective Date: March 1, 2025
+Expiration Date: February 28, 2026
+Contract Value: USD 210,000
+
+2.3 RENEWAL
+This Agreement automatically renews for one year unless either party gives
+written notice of non-renewal at least 30 days before expiration.
+
+8.2 LIABILITY
+Vendor's aggregate liability arising from this Agreement will not exceed
+USD 500,000.
+
+10.1 INTELLECTUAL PROPERTY
+Customer retains ownership of its pre-existing materials and all deliverables
+created specifically for Customer through use of the platform.
+
+12.4 SECURITY NOTICE
+Vendor will notify Customer of confirmed unauthorized access to Customer Data
+within 24 hours after confirmation.
+
+This sample agreement is fictional and is provided only for product testing.

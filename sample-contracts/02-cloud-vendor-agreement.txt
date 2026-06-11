@@ -1,0 +1,43 @@
+CLOUD VENDOR SERVICES AGREEMENT
+
+This Cloud Vendor Services Agreement is entered into between DemoTech Solutions
+Pvt. Ltd. ("Customer") and Nimbus Hosting Ltd. ("Vendor").
+
+Effective Date: June 1, 2026
+Expiration Date: May 31, 2027
+Contract Value: USD 96,000
+
+1. HOSTING SERVICES
+Vendor will provide the cloud infrastructure used to operate Customer's
+inventory analytics platform.
+
+2. SERVICE LEVEL
+Vendor targets 99.5% monthly service availability. Service credits are
+available only if availability falls below 99.0%. Service credits are
+Customer's sole remedy for an availability failure.
+
+3. SECURITY INCIDENTS
+Vendor will notify Customer of a confirmed security incident without undue
+delay and no later than 72 hours after confirmation.
+
+4. DATA RETENTION
+Vendor may delete hosted data 30 days after termination of this Agreement.
+
+5. INTELLECTUAL PROPERTY
+Vendor retains ownership of its platform, APIs, templates, and any derivative
+works created through use of Vendor's proprietary deployment tools.
+
+6. LIABILITY
+Vendor's aggregate liability arising from this Agreement will not exceed the
+fees paid by Customer during the three months preceding the claim. Vendor will
+not be liable for lost profits, lost data, or indirect damages.
+
+7. RENEWAL
+This Agreement automatically renews for one year unless Customer provides
+written notice of non-renewal at least 90 days before the Expiration Date.
+
+8. TERMINATION
+Customer may terminate for material breach only if Vendor does not cure the
+breach within 30 days after receiving written notice.
+
+This sample agreement is fictional and is provided only for product testing.

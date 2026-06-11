@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: clausewatch
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 22.18.0
+      - key: GEMINI_API_KEY
+        sync: false

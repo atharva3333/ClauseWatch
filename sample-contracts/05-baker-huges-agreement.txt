@@ -1,0 +1,470 @@
+EX-10.1 2 ex10-1.htm
+ 
+
+VENDOR AGREEMENT
+
+ 
+
+This Vendor Agreement (the “Agreement”) is made effective as of the 1st day of April, 2018 (the “Effective Date”), by and between Baker Hughes Oilfield Operations LLC, a California corporation, with a place of business at 9110 Grogans Mill Road, The Woodlands, Texas 77380 (“Baker Hughes”) and Superior Drilling Solutions, LLC formerly known as Superior Drilling Products, LLC, a Utah corporation, with its principal place of business at 1583 South 1700 East, Vernal, Utah 84078 (“Superior”). Baker Hughes and Superior may be referred to herein collectively as the “Parties” or each singularly as a “Party”.
+
+ 
+
+WITNESSETH:
+
+ 
+
+WHEREAS, Superior has certain expertise in the manufacture, repair and reconditioning of earth boring drill bits, core bits, eccentric or bicenter bits, and concentric bits (the “Tools”) that employ polycrystalline diamond compact (PDC) cutters for the oil and gas drilling industry (the “Work”);
+
+ 
+
+WHEREAS, Superior desires to continue to perform the Work for Baker Hughes and Baker Hughes desires to have Superior perform the Work;
+
+ 
+
+NOW, THEREFORE, the Parties hereby agree to the following terms and conditions governing the Work hereunder;
+
+ 
+
+1. Baker Hughes Purchases from Superior
+
+ 
+
+1.1 Baker Hughes shall maintain a minimum of two hundred forty (240) repair activities per month (the “Minimum Threshold”). Should activities decline below the Minimum Threshold, on average during any quarter, , the Parties will endeavor to identify mutually agreeable alternate activities provided, however, that notwithstanding Section 2.1, Superior shall have the right to terminate this Agreement with three (3) months written notice. Should market conditions deteriorate; the Minimum Threshold may be reduced due to total repair volume reductions.
+
+ 
+
+1.2. The standard hours of work shall be in accordance with the standard hour schedule posted in SAP and on Exhibit A. Baker Hughes shall bear all freight charges for shipping the bits to and from the Superior Facility where the Work is performed. Adjustments to the standard schedule within SAP, outside a five percent (5%) variance, shall be agreed by the Parties.
+
+ 
+
+1.3 Superior shall not be responsible for invoicing customers of Baker Hughes for any Work performed hereunder.
+
+ 
+
+1.4 Terms of payment to Superior for the Work shall be found in Exhibit B.
+
+ 
+
+1.5 Superior shall provide to Baker Hughes a weekly report describing the extent of the repair activity. Contents of the report will be as defined by Baker Hughes.
+
+ 
+
+2. Term and Termination
+
+ 
+
+2.1 The Term of this Agreement shall be for four (4) years from the Effective Date hereof (“Initial Term”). During the Initial Term or subsequent annual renewals, this Agreement can be terminated by either Party with a six (6) month notice in writing prior to such termination date.
+
+ 
+
+2.2 Notwithstanding any other provision in this Agreement, during the Initial Term of this Agreement and during the term of any subsequent renewal thereof, should the quality of the Work provided by Superior fall below the quality of Baker Hughes’ standards, as reasonably determined by Baker Hughes, Baker Hughes shall advise Superior in writing of the problem and make recommendations to correct the problem. If Superior does not correct the quality problem to Baker Hughes’ satisfaction within thirty (30) days after notice from Baker Hughes, Baker Hughes shall have the right to immediately terminate this Agreement.
+
+ 
+
+2.3 Following termination of this Agreement, for whatever reason, the parties will take such steps to ensure that property and Confidential information is returned to its rightful owner and that neither Party is unduly disadvantaged. Any disputes arising will be resolved in accordance with the provisions of Article 15.
+
+ 
+
+2.4 Termination of this Agreement does not affect the terms and conditions of Articles 4, 5, 6, 8, 9, 13, 14, 15, 17, 18 and 19 of this Agreement.
+
+ 
+
+ 	 	 
+ 
+ 
+
+3. Equipment and Training; Baker Hughes Security Interest
+
+ 
+
+3.1 Baker Hughes will provide, at no cost to Superior, training and technical support to qualify and certify personnel of Superior in Baker Hughes’ processes and shall be able to conduct periodic audits of Superior in order for Superior to maintain such certification.
+
+ 
+
+3.2 Baker Hughes will provide, at no cost to Superior, an inventory of PDC Cutters to be used in the performance of the Work to be performed by Superior. Baker Hughes will also supply bit boxes and nozzles to Superior. Baker Hughes shall retain title to all PDC Cutter inventories, new and used, and supply of bit boxes and nozzles. Baker Hughes will contact relevant vendors and request that those vendors consider extending Baker Hughes’ pricing to Superior. No vendor’s decision regarding what pricing to extend to Superior shall in any way affect the validity of this Agreement.
+
+ 
+
+3.3 At the request of Baker Hughes, Superior will provide any necessary documentation, or assist Baker Hughes, with the filing of appropriate documentation (e.g., UGC Financing Statements, etc.) required to establish and evidence the Baker Hughes title and retained interest in the PDC Cutter inventories, new and used, and supply of bit boxes and nozzles inventory.
+
+ 
+
+4. Ownership of Work
+
+ 
+
+4.1 Superior agrees all Work performed for Baker Hughes shall be the property of Baker Hughes. Notwithstanding the foregoing, Superior understands and agrees that Superior is an independent contractor and controls and assumes full responsibility for all Work performed under the Agreement. Superior further understands and acknowledges that Baker Hughes does not control the Work but is relying on the skill and expertise of Superior in performing such Work.
+
+ 
+
+4.2 Superior agrees that all programs, drawings, tracings, specifications, technical notations, calculations, data, memoranda, cutter inventories, bit boxes, nozzles, notes and other information or material, including all copies and excerpts thereof, comprising all or any part of the Work or containing information of the type set forth hereunder which (i) come into the possession and custody of Superior’s employees or agents, or (ii) are prepared or compiled by Superior or any of its employees or agents at any time during the term of this Agreement, shall be delivered to Baker Hughes upon request of Baker Hughes.
+
+ 
+
+5. Confidential information
+
+ 
+
+5.1 The following is a definition of confidential information as used in the Agreement (“Confidential information”):
+
+ 
+
+Confidential information is highly sensitive, confidential information or other proprietary information, either written or oral, of Baker Hughes or Superior. Such information may include, but is not limited to, ideas, concepts, research or development, development plans for new or improved products or processes, data, formulae, techniques, designs, sketches know-how, photographs, plans, cutters, cutter designs, nozzles, drawings, facts or knowledge concerning the processes, specifications, samples, test specimens, report., scientific studies or analyses, details of training methods, new products or new uses for old products, refining technology, merchandising and selling techniques, contracts and licenses, purchasing, accounting, business systems and computer programs, long-range planning, financial plans and results, pricing or price lists, and customer lists, findings, studies, inventions, designs, costs, strategic and industry analyses, advertising and marketing plans and other information relating to the business of Baker Hughes or Superior that is not generally available to the public. This list is merely illustrative and Confidential Information is not limited to these illustrations.
+
+ 
+
+5.2 Either Baker Hughes or Superior may disclose or exchange Confidential Information to the other Party (hereinafter the disclosing Party is sometimes referred to as the “Discloser”). Either Baker Hughes or Superior may receive Confidential Information from the other Party (hereinafter the receiving Party is sometimes referred to as the “Receiver”).
+
+ 
+
+5.3 The Receiver hereby covenants and agrees that it shall not (either directly or indirectly) reveal or disclose or allow any Confidential Information to be obtained by any other third party person, partnership, association, or corporation; it shall not use such information for any purpose whatsoever without the prior written consent of Discloser, except as expressly contemplated by this Agreement; it shall treat all such Confidential Information received from the Discloser as a trade secret proprietary in nature to the Discloser and will use its best efforts to safeguard the secrecy of the Confidential Information.
+
+ 
+
+ 	 	 
+ 
+ 
+
+5.4 Property in all Confidential Information shall remain vested in the Discloser and nothing in this Agreement shall be construed as granting any rights of license to use or deal with the Confidential Information in any way other than permitted by this Agreement. The Confidential Information and all copies or notes relating thereto will be returned by the Receiver immediately on the request of the Discloser.
+
+ 
+
+5.5 Nothing herein above contained shall deprive the Receiver the right to use or disclose any information:
+
+ 
+
+ 	(a)	which is, at the time of disclosure, known to the trade or the public;
+ 	 	 
+ 	(b)	which becomes at a later date known to the trade or the public through no fault of the Receiver and then only after said later date;
+ 	 	 
+ 	(c)	which is possessed by the Receiver, as evidenced by written records, before receipt thereof from the Discloser;
+ 	 	 
+ 	(d)	which is disclosed to the Receiver in good faith by a third party who has an independent right to such information.
+ 	 	 
+ 	(e)	which is developed by employees of Receiver independently of any knowledge of the Confidential Information of Discloser.
+ 
+
+5.6 Each Party hereto agrees that all Confidential Information furnished by the Discloser to the Receiver or which is developed by one Party for the other whether taking place before, after or in contemplation of a Work Order or Purchase Order, will be Confidential Information.
+
+ 
+
+5.7 Upon termination, the Receiver shall remain obligated under the provisions of this Paragraph 5 to maintain the Confidential Information of the Discloser and not use same for their own benefit or the benefit of third parties.
+
+ 
+
+5.8 In the event that the Receiver or any of its Affiliates or Representatives become legally compelled (by deposition, interrogatory, request for document, subpoena, civil investigative demand or similar process) to disclose any of such Confidential Information, the Receiver shall provide the Discloser with prompt prior written notice of such requirement so that the Discloser may seek a protective order or other appropriate remedy or waive compliance with the terms of this Agreement. In the event that such protective order or other remedy is not obtained, or that the Discloser waives compliance with the provisions hereof, the Receiver agrees to furnish only that portion of such Confidential Information that the Receiver is advised by written opinion of counsel is legally required and to exercise its best efforts to obtain assurance that confidential treatment will be accorded such Confidential Information.
+
+ 
+
+5.9 The Receiver of Confidential Information understands and agrees that the unauthorized use or disclosure of any Confidential Information by Receiver and its employees or agents in violation of this Agreement may cause severe and irreparable damage to the Discloser and agrees that money damages would not be a sufficient remedy for any breach of this Agreement. The Receiver understands and agrees further that the Discloser is entitled and authorized, in the event of any breach of this Agreement, to seek a restraining order and/or injunction from any competent court of equity to enjoin and restrain Receiver and its employees or agents from any disclosure of proprietary and Confidential Information of the Discloser without the necessity of complying with the provisions of Article 15 regarding resolution of disputes. Such equitable remedies shall be in addition to and not in lieu of any damages to which the Discloser may be entitled by law. The Receiver shall notify the Discloser immediately, and cooperate with the Discloser, upon the Receiver’s discovery of any loss or compromise of the Discloser’s Confidential Information.
+
+ 
+
+6. Patents, Trademarks, Copyrights and other Intellectual Property
+
+ 
+
+6.1 Superior shall promptly and freely disclose to Baker Hughes any and all intellectual property, including conceptions, inventions, improvements, suggestions for improvements and valuable discoveries, whether patentable or not, which are conceived or made by Superior solely or jointly with another or others during the term of this Agreement and which are a derivative of Superior’s Work on a Tool for Baker Hughes specifically under this Agreement or which Superior conceives solely as a result of the Work rendered to Baker Hughes, and Superior hereby assigns, and agrees to assign, all interests and related rights therein to Baker Hughes or its nominee. Superior understands and agrees that all copyrights, patents, trademarks, trade secrets or other intellectual property rights associated with any ideas, concepts, techniques, inventions, processes, or works of authorship developed or created by Superior or its personnel exclusively in or as a result of performing the Work for Baker Hughes’s shall belong exclusively to Baker Hughes. Nothing herein contained shall be construed as granting or implying any right to Supplier under any intellectual property rights of Baker Hughes, including Confidential Information, Letters Patent or trademark or copyright rights, or to use any Confidential Information, any invention, mark or copyrighted work covered thereby except as expressly contemplated by this Agreement.
+
+ 
+
+ 	 	 
+ 
+ 
+
+6.2 Superior automatically assigns and shall cause his personnel automatically to assign, at the time of creation of the Work, without any requirement of further consideration, any rights, title, or interest it or they may have in such intellectual property, including any patents, copyrights, or any other intellectual property rights pertaining thereto. Upon request above by Baker Hughes, Superior shall take such further actions, and shall cause its personnel to take such further actions, including execution and delivery of instruments of conveyance which Baker Hughes shall deem necessary to be executed in order to apply for and obtain patents, copyrights, or other intellectual property protection in the United States or any foreign country, or to protect otherwise Baker Hughes’s interest therein
+
+ 
+
+7. Warranties
+
+ 
+
+In the event that Superior’s Work fails to conform to the specifications of Baker Hughes set forth in the relevant scope of work document, then as Baker Hughes’ sole remedy for such nonconformance, Superior shall repair or replace such defective Work brought to Superior’s attention by Baker Hughes within a period of six (6) months from delivery of any equipment or date of first use, whichever is earlier. Except as otherwise provided in this Paragraph, Superior makes no warranty, either express or implied (including without limitation, implied warranties of merchantability or fitness for a particular purpose). Notwithstanding anything to the contrary in the Agreement, Superior’s warranty obligations are strictly limited to the reperformance of any Work once any defective or non-conforming Tool has been delivered to Superior’s designated facility.
+
+ 
+
+8. Indemnity
+
+ 
+
+8.1 SUPERIOR HEREBY INDEMNIFIES, DEFENDS AND AGREES TO HOLD BAKER HUGHES, AND BAKER HUGHES’S PARENT, SUBSIDIARY AND AFFILIATED COMPANIES, AND ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES OR INVITEES (COLLECTIVELY, “BAKER HUGHES GROUP”) HARMLESS AGAINST ANY AND ALL CLAIMS, JUDGMENTS, SETTLEMENTS, FINES, PENALTIES, EXPENSES (INCLUDING BUT NOT LIMITED TO ATTORNEY FEES AND COURT COSTS), COSTS AND LIABILITIES AS A RESULT OF OR RELATING TO PERSONAL INJURY, BODILY INJURY, ILLNESS, DEATH OR DESTRUCTION OR LOSS OF PROPERTY OR ANY OTHER THEORY OF LOSS OR LIABILITY (COLLECTIVELY, “CLAIMS”) ARISING FROM OR RELATING TO THE NEGLIGENCE, ACTIONS, OMISSIONS, STRICT LIABILITY, PRODUCTS LIABILITY OR OTHER FAULT OR RESPONSIBILITY OF SUPERIOR, OR ARISING FROM OR RELATING TO, DIRECTLY OR INDIRECTLY FROM, SUPERIOR’S PERFORMANCE, THE SUBJECT MATTER OR BREACH OF THIS AGREEMENT, OR FROM ANY CLAIMS RELATING TO INFRINGEMENT, THEFT OR UNAUTHORIZED USE OF ANY PATENTS, COPYRIGHTS, TRADEMARKS, TRADE SECRETS OR INTELLECTUAL PROPERTY OR PROPRIETARY RIGHTS OF ANY PERSON. IN ADDITION, SUPERIOR SHALL INDEMNIFY, RELEASE, DEFEND AND HOLD BAKER HUGHES AND THE OTHER MEMBERS OF THE BAKER HUGHES GROUP HARMLESS FROM ANY CLAIMS (AS DEFINED ABOVE) ASSERTED BY (ON BEHALF OF), ARISING IN FAVOR OF OR RELATING TO ANY EMPLOYEES, AGENTS, REPRESENTATIVES OR INVITEES OF SUPERIOR, (AND RELATING TO BAKER HUGHES, WITH REGARD TO SUPERIOR’S OWN PROPERTY OR LOSSES), REGARDLESS OF THE NEGLIGENCE, STRICT LIABILITY, BREACH OF CONTRACT, PREMISES LIABILITY, PRODUCTS LIABILITY OR OTHER FAULT OR RESPONSIBILITY OF SUPERIOR, BAKER HUGHES, ANY OTHER MEMBER OF BAKER HUGHES GROUP OR ANY OTHER PERSON OR PARTY. THIS INDEMNITY SHALL BE BINDING UPON THE SUCCESSORS, ASSIGNS AND HEIRS OF SUPERIOR.
+
+ 
+
+8.2 BAKER HUGHES HEREBY INDEMNIFIES, DEFENDS AND AGREES TO HOLD SUPERIOR, AND SUPERIOR’S PARENT, SUBSIDIARY AND AFFILIATED COMPANIES, AND ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES OR INVITEES (COLLECTIVELY, “SUPERIOR GROUP”) HARMLESS AGAINST ANY AND ALL CLAIMS, JUDGMENTS, SETTLEMENTS, FINES, PENALTIES, EXPENSES (INCLUDING BUT NOT LIMITED TO ATTORNEY FEES AND COURT COSTS), COSTS AND LIABILITIES AS A RESULT OF OR RELATING TO PERSONAL INJURY, BODILY INJURY, ILLNESS, DEATH OR DESTRUCTION OR LOSS OF PROPERTY OR ANY OTHER THEORY OF LOSS OR LIABILITY (COLLECTIVELY, “CLAIMS”) ARISING FROM OR RELATING TO THE NEGLIGENCE, ACTIONS, OMISSIONS, STRICT LIABILITY, PRODUCTS LIABILITY OR OTHER FAULT OR RESPONSIBILITY OF BAKER HUGHES, OR ARISING FROM OR RELATING TO, DIRECTLY OR INDIRECTLY FROM, BAKER HUGHES’S PERFORMANCE, THE SUBJECT MATTER OR BREACH OF THIS AGREEMENT, OR FROM ANY CLAIMS RELATING TO INFRINGEMENT, THEFT OR UNAUTHORIZED USE OF ANY PATENTS, COPYRIGHTS, TRADEMARKS, TRADE SECRETS OR INTELLECTUAL PROPERTY OR PROPRIETARY RIGHTS OF ANY PERSON. IN ADDITION, BAKER HUGHES SHALL INDEMNIFY, RELEASE, DEFEND AND HOLD SUPERIOR AND THE OTHER MEMBERS OF THE SUPERIOR GROUP HARMLESS FROM ANY CLAIMS (AS DEFINED ABOVE) ASSERTED BY (ON BEHALF OF), ARISING IN FAVOR OF OR RELATING TO ANY EMPLOYEES, AGENTS, REPRESENTATIVES OR INVITEES OF BAKER HUGHES, (AND RELATING TO SUPERIOR, WITH REGARD TO BAKER HUGHES’S OWN PROPERTY OR LOSSES), REGARDLESS OF THE NEGLIGENCE, STRICT LIABILITY, BREACH OF CONTRACT, PREMISES LIABILITY, PRODUCTS LIABILITY OR OTHER FAULT OR RESPONSIBILITY OF BAKER HUGHES, SUPERIOR, ANY OTHER MEMBER OF SUPERIOR GROUP OR ANY OTHER PERSON OR PARTY, THIS INDEMNITY SHALL BE BINDING UPON THE SUCCESSORS, ASSIGNS AND HEIRS OF BAKER HUGHES.
+
+ 
+
+ 	 	 
+ 
+ 
+
+9. Non-competition
+
+ 
+
+9.1 Superior agrees that during the term of this Agreement, Superior will not perform the Work for any party other than Baker Hughes.
+
+ 
+
+9.2 Superior may engage in other activity not related to or in competition with the business of Baker Hughes to the extent that such other activity shall not be considered a breach of this Agreement. If Superior is already in a line of business or developing products that Baker Hughes is also in or Baker Hughes later enters, Superior shall be permitted to operate such business line without any restriction. If a court of competent jurisdiction concludes that the parameters of this restrictive covenant are over-broad and thereby unenforceable, the parties agree that the court may reform the parameters so as to make the agreement enforceable.
+
+ 
+
+10. Insurance
+
+ 
+
+10.1 At all times when Superior is performing Work pursuant to this Agreement, Superior agrees to procure and maintain and Superior agrees to have its agents, contractors or subcontractors maintain, the following insurance coverages:
+
+ 
+
+ 	(a)	Commercial General Liability covering bodily injury and property damage with a limit of not less than $2,000,000 for each occurrence;
+ 	 	 
+ 	(b)	Workers’ Compensation insurance (or maintenance of a legally permitted and governmentally approved program of self-insurance) covering Superior’s employees pursuant to applicable state workers’ compensation laws for work related injuries suffered by employees of Superior; and
+ 	 	 
+ 	(c)	Employers Liability insurance with limits of not less than $1,000,000 for each accident.
+ 
+
+10.2 Superior agrees to provide Baker Hughes with a Certificate of Insurance evidencing that the above coverages are in full force and effect.
+
+ 
+
+10.3 To the extent of the indemnity and release obligations expressly assumed by Superior hereunder, Superior agrees that all insurance policies it carries: (i) will be primary to Baker Hughes Group’s insurance, (ii) will name Baker Hughes Group as an additional insured party (only on the Commercial General Liability policy described above), and (iii) be endorsed to waive subrogation against Baker Hughes Group.
+
+ 
+
+11. Compliance with Laws
+
+ 
+
+Each Party represents, warrants and covenants that all work performed hereunder shall be conducted in accordance with all applicable governmental safety regulations, standards, procedures and precautions, and that in connection therewith it employs all necessary or required protective equipment and devices. Each Party agrees to abide by and be bound under the other Party’s policies governing the conduct and safety of personnel having access to the other Party’s facilities or its customers facilities, including without limitation, the other Party’s policies regarding illegal and unauthorized articles, and drug and alcohol policies, but shall have no responsibility for the adequacy of such policies; provided that only such policies of a Party provided to the other Party in writing shall be applicable to the other Party, and in the absence of such written policies, the other Party shall be required to comply with its own policies and the highest industry and HSE standards governing the matters listed above. Without limiting the generality of the foregoing, Superior agrees to notify Baker Hughes in writing in the event that Superior discovers any hazardous materials in connection with performing the Work hereunder
+
+ 
+
+ 	 	 
+ 
+ 
+
+12. Notices
+
+ 
+
+All notices, authorizations and requests in connection with this Agreement shall be deemed given on the day they are (i) deposited in the mail, postage prepaid, certified or registered, return receipt requested; (ii) sent by air express courier (e.g., DHL, Federal Express or Airborne), charges prepaid, return receipt requested, and addressed as set forth below or (iii) on the business day after delivery if notice is given by email of a PDF document (with confirmation of transmission):
+
+ 
+
+Superior:	Superior Drilling Products, LLC
+ 	P.O. Box 1656
+ 	Vernal, UT 84078
+ 	telephone: 435.789.0594
+ 	e-mail: annette@teamsdp.com
+ 	Attn: Annette Meier, President
+ 	 
+Baker Hughes:	Baker Hughes Oilfield Operations LLC
+ 	9110 Grogans Mill Road
+ 	The Woodlands, TX 77380
+ 	telephone: 281.363.6934
+ 	e-mail: doug.brewer@bakerhughes.com
+ 	Attn: Doug Brewer, AMO Manager
+ 
+
+13. Consequential Damages and Maximum Liability
+
+ 
+
+13.1 Consequential Damages. EXCEPT WITH REGARD TO A BREACH BY SUPERIOR OR BAKER HUGHES WITH RESPECT TO PARAGRAPHS 5 OR 6 BUT NOTWITHSTANDING ANYTHING CONTAINED IN THIS AGREEMENT TO THE CONTRARY, NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR AND EACH PARTY HEREBY AGREES TO RELEASE, INDEMNIFY, DEFEND, AND HOLD HARMLESS THE OTHER PARTY’S GROUP (AS DEFINED IN ARTICLE 8) FROM AND AGAINST ANY AND ALL CLAIMS ASSERTED BY OR IN FAVOR OF ANY MEMBER OF THE INDEMNIFYING PARTY’S GROUP FOR INDIRECT, SPECIAL, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOST PRODUCTION, LOST REVENUE, LOST PRODUCT, LOST PROFITS OR LOST BUSINESS OR BUSINESS INTERRUPTIONS, FROM ANY CAUSE WHATSOEVER, INCLUDING, BUT NOT LIMITED TO, THE NEGLIGENCE OR BREACH OF DUTY (STATUTORY OR OTHERWISE), STRICT LIABILITY, PRODUCT LIABILITY OR OTHER FAULT OR RESPONSIBILITY OF EITHER PARTY OR ANY MEMBER OF ITS GROUP, AND EACH PARTY HEREBY RELEASES THE OTHER IN THIS REGARD.
+
+ 
+
+13.2 Maximum Liability. EXCEPT FOR OBLIGATIONS TO MAKE PAYMENT UNDER THIS AGREEMENT, LIABILITY FOR INDEMNIFICATION IN SECTIONS 8 OR 13.1, LIABILITY FOR BREACH OF CONFIDENTIALITY, OR LIABILITY FOR INFRINGEMENT OR MISAPPROPRIATION OF INTELLECTUAL PROPERTY RIGHTS, IN NO EVENT SHALL CONTRACTOR’S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO ANY ORDER ISSUED PURSUANT TO THIS AGREEMENT, WHETHER ARISING OUT OF OR RELATED TO BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE OF ANY KIND) OR OTHERWISE, EXCEED $1,000,000 USD.
+
+ 
+
+14. Ancillary Provisions
+
+ 
+
+14.1 No waiver, modification or amendment of any term, condition or provision of this Agreement nor any addition thereto shall be valid or of any force or effect unless made in writing and signed by an authorized representative of the Parties.
+
+ 
+
+14.2 Superior shall not assign this Agreement without prior written approval of Baker Hughes. Any attempt to so assign shall be void. Assignment without such approval shall not operate to relieve Superior of any of its obligations under this Agreement.
+
+ 
+
+14.3 Superior is and shall remain an independent contractor in its performance of this Agreement. Notwithstanding anything herein that may be construed to the contrary, this Agreement shall not constitute, create, or in any way be interpreted as, a joint venture, partnership or formal business organization of any kind and nothing contained in this Agreement shall be construed as establishing any joint obligations between the parties. Each Party hereto retains the right to conduct its own business as it sees fit and each Party shall act as an independent contractor of the other and shall not, except as specifically authorized hereunder, act as an agent or representative of the other Party for any purpose whatsoever. Except as expressly provided herein, (a) no Party shall have the authority to bind the other Party or make any commitment or incur any costs or expenses for or in the name of the other Party, and (b) no Party hereto shall be responsible in any way for any obligation or liability incurred or assumed by any other Party. None of the parties’ employees shall be deemed to be the employees or servants of the other Party for any purpose. No Party shall have any fiduciary duty to the other, no special relationship between the parties shall be deemed to exist, and no duties not specifically set forth in this Agreement shall exist.
+
+ 
+
+14.4 This Agreement shall be interpreted under the laws of the State of Texas, excluding conflicts of law and choice of law statutes.
+
+ 
+
+ 	 	 
+ 
+ 
+
+14.5 If any provision of this Agreement shall be held by a court of competent jurisdiction to be illegal, invalid or unenforceable, the remaining provisions shall remain in full force and effect. No waiver of any breach of any provision of this Agreement shall constitute a waiver of any other breach of the same or any other provisions hereof, and no waiver shall be effective unless made in wilting and signed by an authorized representative of the waiving Party.
+
+ 
+
+14.6 Neither Party shall be responsible for any failure or delay in complying with the terms of this Agreement where such failure or delay is due to causes beyond its reasonable control. These causes shall include, but not be restricted to, fire, storm, flood, earthquake, explosion, accident, acts of the public enemy, war, rebellion, insurrection, sabotage, epidemic, quarantine restrictions, labor disputes, labor shortages, transportation embargoes or failures or delays in transportation, inability to secure necessary raw materials or machinery, acts of God, acts of any government, whether national, municipal or otherwise, or any agency thereof, and judicial action. The Party so affected by the force majeure shall notify the other Party as soon as practicable of its existence. The parties shall then meet and endeavor to alleviate the effect and extent thereof. If the force majeure persists for a period in excess of 180 days either Party may terminate this Agreement by giving the other Party 90 days’ written notice thereof.
+
+ 
+
+14.7 This Agreement, including any and all Schedules attached hereto, constitute the entire agreement between the parties with respect to the subject matter of this Agreement and supersede all previous agreements and understandings, whether oral or written, express or implied. The Parties specifically intend to replace and supersede the previous Vendor Agreement between Baker Hughes and Superior, dated October 28, 2013 as amended by that certain Amendment No. 1 to the Vendor Agreement dated effective as of September 28, 2015 and terminated effective as of the Effective Date. To the extent the terms and conditions of this Agreement are in conflict with any terms or conditions in any Schedule, Confidentiality Agreement, work order, proposal, purchase order, invoice or other terms and conditions in any other document, the terms and conditions of this Agreement shall control. This Agreement may not be altered, amended, or modified except by written instrument signed by the duly authorized representatives of all parties. The terms on any Work Order, Purchase Order or other form submitted by Superior to Baker Hughes shall not apply to this Agreement.
+
+ 
+
+15. Conciliation/Arbitration
+
+ 
+
+15.1 Any disputes, claims or controversies connected with, arising out of, or related to, this Agreement and the rights and obligations created herein, or the breach, validity, existence or termination hereof (the ‘Dispute”), shall first be submitted to the respective representatives of the parties for resolution. If those designated representatives are unable to resolve such dispute, claim or controversy within thirty (30) days of such submission, the dispute, claim or controversy shall then be submitted to the Presidents of the respective parties for resolution. If the respective Presidents of the parties are unable to resolve such dispute, claim or controversy within thirty (30) days of submission, the dispute, claim or controversy shall then be submitted to mandatory, binding arbitration in accordance with Clause 15.2 below.
+
+ 
+
+15.2 Any Dispute arising out of or connected with this Agreement which cannot be resolved utilizing the procedures set forth In Clause 15.1 above, shall be referred to and finally resolved by arbitration. Upon notice by either Party to the other, all disputes, claims, questions, or differences (including issues relating to the formation of the agreement and the validity of this arbitration clause) shall be finally settled by binding arbitration administered by the American Arbitration Association (“AAA”) in accordance with the provisions of its Commercial Arbitration Rules, as well as the Federal Rules of Civil Procedure and the Federal Rules of Evidence, and judgment on the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof.
+
+ 
+
+15.3 The arbitration Panel shall consist of a single arbitrator, unless otherwise agreed to by the parties. The place of arbitration shall be Houston, Texas. If the parties are not able to decide upon a neutral third party arbitrator within thirty (30) days of the request for arbitration, then the AAA shall select an arbitrator having at least twenty (20) years of experience in intellectual property matters. All proceedings will be conducted in English.
+
+ 
+
+The parties agree to hold the entirety of the arbitration proceedings, including knowledge of the existence of any dispute or controversy, completely confidential except for such disclosures as might be required by law
+
+ 
+
+This arbitration agreement does not limit or affect the right of either Party to seek from any court having jurisdiction any interim, interlocutory, or provisional relief that is necessary to protect the rights or property of that Party. Alternatively, either Party may apply to the AAA pursuant to the AAA Optional Rules for Emergency Measures seeking injunctive relief until the arbitration award is rendered or the controversy is otherwise resolved.
+
+ 
+
+ 	 	 
+ 
+ 
+
+16. Power and Authority
+
+ 
+
+Each Party hereto represents that it has full power and authority (corporate or otherwise) to execute this Agreement and bind the Party on whose behalf it is signing.
+
+ 
+
+17. Multiple Counterparts
+
+ 
+
+This Agreement may be executed in any number of counterparts (including by electronic delivery of signed signature pages) and by different Parties in separate counterparts, each of which counterparts, when so executed and delivered, will be deemed to be an original and all of which counterparts, taken together, will constitute but one and the same agreement.
+
+ 
+
+18. Drafting
+
+ 
+
+Both Parties hereto acknowledge that each Party was actively involved in the negotiation and drafting of this Agreement and that no law or rule of construction shall be raised or used in which the provisions of this Agreement shall be construed in favor or against either Party hereto because one is deemed to be the author thereof.
+
+ 
+
+19. Prevailing Party
+
+ 
+
+If any legal action or other proceeding is brought for the enforcement of this Agreement or any document executed in connection with, or because of an alleged dispute, breach, default or misrepresentation in connection with any of the provisions of this Agreement or any document, instrument or agreement executed in connection herewith, the successful prevailing Party shall be entitled to recover reasonable attorney’s fees, court costs and all other costs and expenses incurred in that action or proceeding from the non-prevailing Party.
+
+ 
+
+SIGNATURES ON FOLLOWING PAGE
+
+ 
+
+ 	 	 
+ 
+ 
+
+IN WITNESS WHEREOF, this Agreement has been executed on behalf of each Party as of the day and year set forth at its beginning.
+
+ 
+
+ 	SUPERIOR DRILLING PRODUCTS, LLC
+ 	 	 
+ 	By	/s/ Annette Meier
+ 	Title	President
+ 	 	 
+ 	BAKER HUGHES OILFIELD OPERATIONS LLC
+ 	 	 
+ 	By	/s/ Scott Schmidt
+ 	Title	Vice President – Drill Bits
+ 
+
+ 	 	 
+ 
+ 
+
+
+EXHIBIT A
+
+ 
+
+Superior’s hourly rate will be $+++.
+
+ 
+
+The Baker Hughes USL standard hour rate is adjusted based on a balance sheet calculation maintaining a cost neutral P&L for USL AMO.
+
+ 
+
+Repair Charge Example
+
+ 
+
+Inspection Fee:	 	All Sized	 	$+++	 	+++ Hours
+ 	 	 	 	 	 	 
+Setup Charges:	 	‹ 9”	 	$+++	 	+++ Hours
+ 	 	‹ 13”	 	$+++	 	+++ Hours
+ 	 	‹ 18”	 	$+++	 	+++ Hours
+ 	 	 	 	 	 	 
+Cutter Rotation:	 	3/8	 	$+++	 	+++ Hours
+ 	 	1/2	 	$+++	 	+++ Hours
+ 	 	5/8 & 3/4	 	$+++	 	+++ Hours
+ 	 	 	 	 	 	 
+Cutter Replacement:	 	3/8	 	$+++	 	+++ Hours
+ 	 	1/2	 	$+++	 	+++ Hours
+ 	 	5/8 & 3/4	 	$+++	 	+++ Hours
+ 	 	 	 	 	 	 
+Pocket Repair:	 	3/8	 	$+++	 	+++ Hours
+ 	 	1/2	 	$+++	 	+++ Hours
+ 	 	5/8 & 3/4	 	$+++	 	+++ Hours
+ 	 	 	 	 	 	 
+Box Prep:	 	 	 	$+++	 	+++ Hours
+ 	 	 	 	 	 	 
+Used Reclaimed Nozzles:	 	 	 	All sizes	 	$+++/each
+ 	 	 	 	 	 	 
+Used Reclaimed Cutters:	 	 	 	All Sizes	 	$+++/each
+ 	 	 	 	 	 	 
+Shop Rate:	 	Per Hour	 	$ +++	 	 
+ 
+
++++ This information has been omitted in reliance upon Rule 24b-2 under the Securities Exchange Act of 1934, as amended, and has been filed separately with the Securities and Exchange Commission.
+
+ 
+
+ 	 	 
+ 
+ 
+
+EXHIBIT B
+
+ 
+
+Terms of payment to Superior for the Work shall be the GE Accelerated Payment Program with details found in Addendum to Purchase Orders with Superior Drilling Solutions, LLC.
+
+ 
+
+ 	 	 
+ 
+ 

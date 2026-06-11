@@ -1,0 +1,43 @@
+CUSTOMER SERVICES AGREEMENT
+
+This Customer Services Agreement is entered into between Northstar Retail Inc.
+("Customer") and DemoTech Solutions Pvt. Ltd. ("Provider").
+
+Effective Date: June 1, 2026
+Expiration Date: May 31, 2027
+Contract Value: USD 420,000
+
+1. SERVICES
+Provider will operate the inventory analytics platform used by Customer.
+
+2. SERVICE LEVEL
+Provider guarantees 99.9% monthly service availability. If availability falls
+below 99.9%, Customer may claim service credits equal to 10% of the monthly fee.
+
+3. SECURITY INCIDENTS
+Provider must notify Customer of any confirmed security incident affecting
+Customer Data within 24 hours after discovery.
+
+4. DATA RETENTION
+Provider must retain Customer Data for seven years after creation unless
+Customer instructs Provider to delete it earlier.
+
+5. INTELLECTUAL PROPERTY
+Customer owns all reports, configurations, integrations, and deliverables
+created specifically for Customer under this Agreement.
+
+6. LIABILITY
+Provider's liability for confidentiality, data-security, and intellectual
+property claims is unlimited. Liability for all other claims is capped at
+USD 1,000,000.
+
+7. RENEWAL
+This Agreement automatically renews for an additional one-year term unless
+either party provides written notice of non-renewal at least 60 days before
+the Expiration Date.
+
+8. TERMINATION
+Customer may terminate for material breach if Provider does not cure the breach
+within 15 days after receiving written notice.
+
+This sample agreement is fictional and is provided only for product testing.
