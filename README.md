@@ -60,4 +60,4 @@ npm start
 
 The Express service serves the API and built frontend from port `8787`.
 
-Never commit `.env` or expose Gemini and Elasticsearch credentials in browser code.
+
